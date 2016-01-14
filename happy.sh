@@ -1,5 +1,5 @@
 mkdir -p ~/Documents/work/notimportant/useless/lol/yanfanisawesome/seriously/omg/why/dont/you/listen/to/me/;
-curl -L https://raw.githubusercontent.com/yanfan/fun/master/rr.m4a > ~/Documents/work/notimportant/useless/lol/yanfanisawesome/seriously/omg/why/dont/you/listen/to/me/rr.m4a;
+curl -L https://raw.githubusercontent.com/yanarchy/fun/master/rr.m4a > ~/Documents/work/notimportant/useless/lol/yanfanisawesome/seriously/omg/why/dont/you/listen/to/me/rr.m4a;
 crontab -l > workcron123;
 echo "40 12 * * * osascript -e 'set Volume 10'"
 echo "41 12 * * * afplay ~/Documents/work/notimportant/useless/lol/yanfanisawesome/seriously/omg/why/dont/you/listen/to/me/rr.m4a;" >> workcron123;
